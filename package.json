@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "npx gh-pages -d dist http://L34N07.github.io/L34N07.github.io"
+    "deploy": "npx gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.0.0",
